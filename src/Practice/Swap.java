@@ -5,8 +5,8 @@ public class Swap {
 	public static void main(String[] args) {
 		//Logic 1
 		//int temp;
-		int x=100;
-		int y=200;
+		int x=200;
+		int y=300;
 		/*temp=x;
 		x=y;
 		y=temp;*/

@@ -12,6 +12,7 @@ public class FibonacciSeries {
 			System.out.println(" "+ add);
 			n1=n2;
 			n2=add;
+			System.out.println("Thank you");
 		}
 
 	}
